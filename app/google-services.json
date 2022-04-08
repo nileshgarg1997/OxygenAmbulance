@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "480293532024",
+    "firebase_url": "https://toto-ambulance-61585-default-rtdb.firebaseio.com",
+    "project_id": "toto-ambulance-61585",
+    "storage_bucket": "toto-ambulance-61585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480293532024:android:0fcb530b2d38ede49e588d",
+        "android_client_info": {
+          "package_name": "com.app.totoambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480293532024-gtgopssuujgl4d2k9ncvvl85uf6i1v0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIFKibVpHMMKq9Hb4JwWeZE7JQk6LPqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480293532024-gtgopssuujgl4d2k9ncvvl85uf6i1v0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480293532024:android:7e11f822a381d93a9e588d",
+        "android_client_info": {
+          "package_name": "com.myapps.totoambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480293532024-b4rangnmp68doev4ovjqiqjtstmjbin3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapps.totoambulance",
+            "certificate_hash": "42bad532182558d8e738ed6efd5ca42ec44a11ec"
+          }
+        },
+        {
+          "client_id": "480293532024-svhcgcge0vdvqeobkjb7ho3uib4j6cr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapps.totoambulance",
+            "certificate_hash": "dd89cc085e81a1b340ca3bc0b5d92dd1a1f7efaa"
+          }
+        },
+        {
+          "client_id": "480293532024-gtgopssuujgl4d2k9ncvvl85uf6i1v0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIFKibVpHMMKq9Hb4JwWeZE7JQk6LPqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480293532024-gtgopssuujgl4d2k9ncvvl85uf6i1v0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
